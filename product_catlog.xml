@@ -1,0 +1,22 @@
+<catalog>
+    <product>
+        <id>PROD_A</id>
+        <category>Electronics</category>
+        <supplier>NexusCorp</supplier>
+    </product>
+    <product>
+        <id>PROD_B</id>
+        <category>Apparel</category>
+        <supplier>StitchWorks</supplier>
+    </product>
+    <product>
+        <id>PROD_C</id>
+        <category>Office Supplies</category>
+        <supplier>PaperCo</supplier>
+    </product>
+    <product>
+        <id>PROD_D</id>
+        <category>Electronics</category>
+        <supplier>NexusCorp</supplier>
+    </product>
+</catalog>
