@@ -1,0 +1,6 @@
+[
+    {"user_id": "USR_101", "signup_country": "USA", "is_premium": true},
+    {"user_id": "USR_102", "signup_country": "Germany", "is_premium": false},
+    {"user_id": "USR_103", "signup_country": "India", "is_premium": false},
+    {"user_id": "USR_104", "signup_country": "Canada", "is_premium": true}
+  ]
